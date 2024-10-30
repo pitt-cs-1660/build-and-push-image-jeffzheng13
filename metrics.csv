@@ -1,0 +1,11 @@
+TimeSeries ID,workload_identity_federation/count.iam.googleapis.com/WorkloadIdentityPoolProvider.ALIGN_RATE.REDUCE_SUM.metric.type="iam.googleapis.com/workload_identity_federation/count" resource.type="iam.googleapis.com/WorkloadIdentityPoolProvider" metric.label."result"="success".60s.pool_id:github.project_id:cs2060-cloud-computing
+pool_id,github
+project_id,cs2060-cloud-computing
+Sun Oct 27 2024 21:50:00 GMT-0400 (Eastern Daylight Time),0.0033333333333333335
+Sun Oct 27 2024 22:05:00 GMT-0400 (Eastern Daylight Time),0.008833258332083312
+Sun Oct 27 2024 22:10:00 GMT-0400 (Eastern Daylight Time),0.004500075001250022
+Sun Oct 27 2024 22:15:00 GMT-0400 (Eastern Daylight Time),0.013333333333333334
+Sun Oct 27 2024 22:30:00 GMT-0400 (Eastern Daylight Time),0.008833258332083312
+Sun Oct 27 2024 22:35:00 GMT-0400 (Eastern Daylight Time),0.004500075001250022
+Sun Oct 27 2024 22:45:00 GMT-0400 (Eastern Daylight Time),0.030000000000000002
+Sun Oct 27 2024 23:00:00 GMT-0400 (Eastern Daylight Time),0.013333333333333334
